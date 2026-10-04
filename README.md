@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This account will soon be migrated to [GitLab](https://gitlab.com/kklejbor)
+
 <!--
 **KKlejbor/KKlejbor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
